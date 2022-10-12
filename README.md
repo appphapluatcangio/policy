@@ -1,2 +1,2 @@
 # policy
-Hello
+This site used for policy of app "app phap luat"
